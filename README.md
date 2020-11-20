@@ -1,4 +1,4 @@
-INDIAN RUMMY BY YATHARTH TANEJA 2019346 
+INDIAN RUMMY BY YATHARTH TANEJA 2019346 IIITD 
 HOW TO PLAY :
 1. when you start pygame you will be promt to play (click to play )
 2. select difficulty level of game 
